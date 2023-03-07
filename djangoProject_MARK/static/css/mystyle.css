@@ -1,0 +1,30 @@
+body {
+    background-color: yellow;
+}
+
+.form-group{
+    width: 350px;
+    height: 75px;
+}
+
+.form-control{
+    background-color: yellow;
+    font-size: 25px;
+}
+
+
+
+.btn{
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+}
+
+.col-md-8{
+    margin-top: 20px;
+}
+
+h2{
+    font-size: 50px;
+}
+
