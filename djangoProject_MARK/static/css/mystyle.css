@@ -1,15 +1,18 @@
 body {
-    background-color: yellow;
+    background-color: #9990fb !important;
 }
 
 .form-group{
     width: 350px;
-    height: 75px;
+    height: 70px;
+
 }
 
 .form-control{
-    background-color: yellow;
-    font-size: 25px;
+    background-color: #ffffff !important;
+    font-size: 22px;
+    font-family: "Century Schoolbook L", monospace;
+
 }
 
 
@@ -18,6 +21,7 @@ body {
     border-radius: 20px;
     color: white;
     background-color: black;
+    font-family: "Century Schoolbook L", monospace;
 }
 
 .col-md-8{
@@ -26,5 +30,17 @@ body {
 
 h2{
     font-size: 50px;
+    font-family: "Century Schoolbook L", monospace;
+    margin-left: 150px;
 }
 
+table {
+    font-family: "Century Schoolbook L", monospace;
+    font-size: 18px;
+    background-color: #ffffff !important;
+}
+
+.navbar-brand{
+    font-size: 50px;
+    margin-left: 100px;
+}
